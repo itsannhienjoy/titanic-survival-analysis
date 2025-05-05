@@ -1,4 +1,4 @@
-# Titanic Survival Analysis 🚢
+# Titanic Survival Analysis 
 
 ## Overview
 This project applies data analysis and machine learning techniques to explore the factors that influenced passenger survival on the Titanic. The analysis covers exploratory data analysis (EDA), feature engineering, and predictive modeling to extract actionable insights from historical data using Python.
