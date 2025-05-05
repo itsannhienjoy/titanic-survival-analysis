@@ -12,9 +12,9 @@ This project applies data analysis and machine learning techniques to explore th
 
 ## Dataset
 - Source: Kaggle Titanic Dataset
-- Files:\n
-  train.csv: Used for EDA, training, and evaluation.\n
-  test.csv: Used for final prediction/testing.
+- Files:
+  - train.csv: Used for EDA, training, and evaluation.
+  - test.csv: Used for final prediction/testing.
 
 ## Key Techniques
 🧹 Data Cleaning: Handling missing values, inconsistent data, and categorical encoding.
