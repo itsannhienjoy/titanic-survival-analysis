@@ -17,15 +17,11 @@ This project applies data analysis and machine learning techniques to explore th
   - test.csv: Used for final prediction/testing.
 
 ## Key Techniques
-🧹 Data Cleaning: Handling missing values, inconsistent data, and categorical encoding.
-
-🔍 EDA: Visualizing survival rates by gender, age, class, fare, and family size.
-
-🧠 Feature Engineering: Extracting titles from names, creating family groupings, and binning continuous variables.
-
-🤖 Modeling: Logistic Regression, Random Forest, and Gradient Boosting Classifier.
-
-📊 Evaluation: Accuracy, precision-recall, confusion matrix, and cross-validation scores.
+- Data Cleaning: Handling missing values, inconsistent data, and categorical encoding.
+- EDA: Visualizing survival rates by gender, age, class, fare, and family size.
+- Feature Engineering: Extracting titles from names, creating family groupings, and binning continuous variables.
+- Modeling: Logistic Regression, Random Forest, and Gradient Boosting Classifier.
+- Evaluation: Accuracy, precision-recall, confusion matrix, and cross-validation scores.
 
 ## Tools and Tech Stacks
 - Languages: Python
